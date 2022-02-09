@@ -1,0 +1,4 @@
+enum RouterState {
+  userList,
+  addUser
+}
